@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Enhancements
+
+-   `TimePicker`: Use the WordPress UI select for choosing a month ([#87079](https://github.com/WordPress/gutenberg/pull/87079)).
+
 ### Bug Fixes
 
 -   `GradientPicker`, `CustomGradientPicker`: Restore the last committed linear angle when switching back from Radial after a background update suspends ([#86739](https://github.com/WordPress/gutenberg/pull/86739)).
